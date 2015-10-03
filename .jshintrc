@@ -1,0 +1,7 @@
+{
+	"browserify": true,
+	"undef": true,
+	"devel": true,
+	"globalstrict": true,
+	"validthis": true
+}

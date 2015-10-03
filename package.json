@@ -1,0 +1,41 @@
+{
+  "name": "gun-schema",
+  "version": "0.1.0",
+  "description": "Validate GUN DB data with JSON-Schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "browserify index.js --standalone GunSchema > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RangerMauve/gun-schema.git"
+  },
+  "keywords": [
+    "gun",
+    "db",
+    "json",
+    "schema",
+    "model",
+    "graph"
+  ],
+  "author": "rangermauve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/gun-schema/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/gun-schema",
+  "devDependencies": {
+    "browserify": "^11.2.0"
+  },
+  "peerDependencies": {
+    "gun": "^0.2.x"
+  },
+  "dependencies": {
+    "global": "^4.3.0",
+    "is-my-json-valid": "^2.12.2"
+  },
+  "browser": {
+    "gun": false
+  }
+}
