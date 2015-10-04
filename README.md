@@ -3,6 +3,8 @@ Validate [Gun](http://gun.js.org/) data with JSON-Schema.
 
 Validation is done by [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid)
 
+**Note: This has been moved over to the [gundb organization](https://github.com/gundb/gun-schema)
+
 ## Getting started
 ### Browser
 Download the js bundle from the [releases page](https://github.com/RangerMauve/gun-schema/releases) and add it to the page. As well as attaching the required methods to Gun, it will create a GunSchema global.
