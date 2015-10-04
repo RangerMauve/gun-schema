@@ -3,7 +3,7 @@ Validate [Gun](http://gun.js.org/) data with JSON-Schema.
 
 Validation is done by [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid)
 
-**Note: This has been moved over to the [gundb organization](https://github.com/gundb/gun-schema)
+**Note: This has been moved over to the [gundb organization](https://github.com/gundb/gun-schema)**
 
 ## Getting started
 ### Browser
