@@ -5,7 +5,7 @@ Validation is done by [is-my-json-valid](https://github.com/mafintosh/is-my-json
 
 ## Getting started
 ### Browser
-Download the js bundle from the [releases page](https://github.com/RangerMauve/gun-schema/releases) and add it to the page. As well as attaching the required methods to Gun, it will create a GunSchema global.
+Download the js bundle from the [releases page](https://github.com/gundb/gun-schema/releases) and add it to the page. As well as attaching the required methods to Gun, it will create a GunSchema global.
 
 ### Server
 Install from NPM
